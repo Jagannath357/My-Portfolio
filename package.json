@@ -2,14 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-<<<<<<< HEAD
   "homepage": "https://Jagannath357.github.io/My-Portfolio",
-=======
->>>>>>> 51da3b7 (files uploaded)
-=======
-  "homepage": "https://Jagannath357.github.io/My-Portfolio",
->>>>>>> 839ea409065ef179815922bc914439bc4a190db0
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -47,17 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
-<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-=======
->>>>>>> 51da3b7 (files uploaded)
-=======
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
->>>>>>> 839ea409065ef179815922bc914439bc4a190db0
   }
 }
