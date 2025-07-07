@@ -6,15 +6,7 @@ function Home() {
                 <div className="container row" id='profileContainer'>
                     <div className="col-10 d-flex flex-column align-items-start gap-2 hero-desc">
                         <h1>Hi, I'm <span className="text-warning">Jagannath Padhi</span></h1>
-<<<<<<< HEAD
-<<<<<<< HEAD
                         <p className='text-light'>Full Stack developer passionate about creating innovative web solutions</p>
-=======
-                        <p className='text-light'>Full Stack Developer passionate about creating innovative web solutions</p>
->>>>>>> 839ea40 (file updated)
-=======
-                        <p className='text-light'>Full Stack Developer passionate about creating innovative web solutions</p>
->>>>>>> 839ea409065ef179815922bc914439bc4a190db0
                         <div className="d-flex touch">
                             <button type="button" className="btn btn-warning btn">Vew My Work</button>
                             <button type="button" className="btn btn-outline-light ms-sm-5" id='mom'>Get In Touch</button>
