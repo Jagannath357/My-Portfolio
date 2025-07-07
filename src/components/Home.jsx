@@ -5,8 +5,8 @@ function Home() {
             <div className="container" >
                 <div className="container row" id='profileContainer'>
                     <div className="col-10 d-flex flex-column align-items-start gap-2 hero-desc">
-                        <h1>Hii! I'm <span className="text-warning">Jagannath Padhi</span></h1>
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti aliquid rem numquam</p>
+                        <h1>Hi, I'm <span className="text-warning">Jagannath Padhi</span></h1>
+                        <p className='text-light'>Ful Stack developer passionate about creating innovative web solutions</p>
                         <div className="d-flex touch">
                             <button type="button" className="btn btn-warning btn">Vew My Work</button>
                             <button type="button" className="btn btn-outline-light ms-sm-5" id='mom'>Get In Touch</button>
